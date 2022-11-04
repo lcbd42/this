@@ -53,7 +53,7 @@
           </div>
       </div>
     
-      <div style="display:inline` -block; width:49%; height: 47%; margin-top: 10px;">
+      <div style="display:inline-block; width:49%; height: 47%; margin-top: 10px;">
           <div class="shadow p-3 mb-5 bg-body rounded">
           <vue-mermaid-string :value="inputValue" />
           </div>
